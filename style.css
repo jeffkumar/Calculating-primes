@@ -2,8 +2,12 @@ h1,
 h2 {
   font-family: Lato;
 }
+.description {
+  padding: 10px;
+}
 
 #app {
+  padding: 10px;
   width: 250px;
   overflow-wrap: normal;
 }

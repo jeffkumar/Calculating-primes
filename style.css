@@ -11,7 +11,8 @@ h2 {
 }
 
 #app {
+  box-sizing: border-box;
   padding: 10px;
-  width: 250px;
+  width: 100%;
   overflow-wrap: normal;
 }

@@ -1,3 +1,4 @@
+// Sieve of Erosthenes
 export function calculatePrimes(n) {
   self.onmessage = function (e) {
     const n = e.data.limit;
